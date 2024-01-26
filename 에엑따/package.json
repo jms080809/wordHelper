@@ -1,0 +1,17 @@
+{
+  "name": "getenglishword",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "random-useragent": "^0.5.0",
+    "request": "^2.88.2"
+  }
+}

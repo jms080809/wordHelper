@@ -1,0 +1,3 @@
+C:\Users\jms08\OneDrive\바탕 화면\에엑따\obj\Debug\FromExistingCode1.njsproj.AssemblyReference.cache
+C:\Users\jms08\OneDrive\바탕 화면\에엑따\obj\Debug\FromExistingCode1.njsproj.CoreCompileInputs.cache
+C:\Users\jms08\OneDrive\바탕 화면\에엑따\bin\Microsoft.NodejsTools.WebRole.dll
